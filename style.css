@@ -1,0 +1,24 @@
+html,body {
+    margin: 0;
+    overflow: hidden;
+    height: 100%;
+}
+
+img{
+    width: 100%;
+    max-width: 800px;
+    position: absolute;
+    top: 12%;
+    left: 0;
+    right: 0;
+    margin: 0 auto
+}
+
+.large-header {
+    background: linear-gradient(to bottom, #c42307, 0%,#C42307 42%,#163a75 61%,#0c528e 100%);
+    text-align: center;
+}
+
+#x-canvas {
+    opacity:0.5;
+}
